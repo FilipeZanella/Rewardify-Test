@@ -1,0 +1,5 @@
+here are the controls to use it:
+
+left mouse button => select initial/final cell;
+right mouse button => add/remove cell's obstacle status;
+zoom with mouse scroll;
