@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7216289502640952158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6846467285191506309}
+  - component: {fileID: 832794231183826556}
+  m_Layer: 0
+  m_Name: MapDrawerGUI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6846467285191506309
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7216289502640952158}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &832794231183826556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7216289502640952158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffd50c688e5046e48a0b042d04f355f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: 33e544b78fe382e4fbb3002ecef7cd09, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 5669d7ee56d6e0b4d984014894d30018, type: 2}
+  - {fileID: 2100000, guid: fa003d21d6cda694f856eaf444d6cbf3, type: 2}
+  - {fileID: 2100000, guid: 436a620e211e92b438d27ec6d5d32841, type: 2}
+  - {fileID: 2100000, guid: 83636561b7542ed40b6dbfd46f719ec4, type: 2}
+  - {fileID: 2100000, guid: d3fb134153047bd4c8e08b16a8601a2f, type: 2}
+  - {fileID: 2100000, guid: 312335bcb4167274bab6450561d18ef3, type: 2}
+  - {fileID: 2100000, guid: 12f769cb3bd92cd4b8804c81e17dae57, type: 2}
+  - {fileID: 2100000, guid: 71ee13547495f7c4b8f0eedae954b6db, type: 2}
+  zoom: 1

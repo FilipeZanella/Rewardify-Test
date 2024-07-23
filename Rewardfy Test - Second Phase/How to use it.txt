@@ -1,0 +1,6 @@
+single click to add/remove obstacles;
+double click to select path;
+
+in the second phase, I added a new mode to show details about the pathfinding in runtime. just click in the button on the bottom-left and select the right mode.
+
+every pathfinding iteration is controlled by the user; touch anywhere in the screen to go to the next iteraction.
